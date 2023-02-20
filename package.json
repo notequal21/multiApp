@@ -1,5 +1,5 @@
 {
-  "name": "react_template",
+  "name": "multi_app",
   "version": "0.1.0",
   "private": true,
   "cracoConfig": "craco.config.js",
